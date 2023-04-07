@@ -6,7 +6,7 @@
     <li style = "text-align: left; width: 33.33333%; font-family: Georgia, serif;"> stevenhsu5679@gmail.com</li>
     <li style = "text-align: center; width: 33.33333%; font-family: Georgia, serif;"><a href="https://www.linkedin.com/in/steven-hsu-55bb9324a">Linkedin</a></li>
     <li style = "text-align: right; 
-    width: 33.33333%; font-family: Georgia, serif;"><a href="https://github.com/StevenHsu5679">Personal GitHub</a></li></li>
+    width: 33.33333%; font-family: Georgia, serif;"><a href="https://github.com/StevenHsu5679">Personal GitHub</a></li>
 </ul>
 
 <img style = "display: block;
